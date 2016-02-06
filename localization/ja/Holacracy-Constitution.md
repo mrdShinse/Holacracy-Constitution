@@ -11,22 +11,22 @@
 
 <!--## Article 1: Energizing Roles-->
 <!--### 1.1 Definition of a Role-->
-## 第１章: エナジャイジングな役割
-### 1.1 役割の定義
+## 第１条: エナジャイジングなロール
+### 1.1 ロールの定義
 
-組織のパートナーは 1 つ以上の明示的に定義された役割で作用することによりの組織の通常の作業を実行します。A **_“役割"_** は次の内容を示す名前と 1 つ以上の組織構造。
 
-- **(a)**、**_"目的"_**、役割が追求する、あるいは組織に代わって表現能力、潜在的なまたは叶わぬの目標であります。
-- **(b)** 1 つ以上 **_“ドメイン"_**、役割があります排他的制御し、組織に代わってそのプロパティとして規制するものであります。
-- **(c)** 1 つ以上 **_“説明責任"_**、役割を制定する組織の継続的な活動であります。
+組織のパートナーは1つ以上の明示的に定義されたロールで作用することによりの組織の通常の作業を実行します。**_“ロール"_** は組織によって名前と以下の1つ以上の特徴を与えられます。
 
-```
+- **(a)** **_"目的"_**：組織に代わって、ロールが追求し表現する、ポテンシャルまた潜在的な叶わぬの目標であります。
+- **(b)** 1つ以上の**_“領域(Domain)"_**：組織に代わって、ロールが専任で制御しその持ち物として規制するものです。
+- **(c)** 1つ以上の**_“活動内容(Accountabilities)"_**：ロールが制定する、組織の現在の活動です。
+
+<!--
 	The Organization’s Partners will typically perform work for the Organization by acting in one or more explicitly defined Roles. A **_“Role“_** is an organizational construct with a descriptive name and one or more of the following:  
-
 	- **(a)** a **_“Purpose“_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
 	- **(b)** one or more **_“Domains“_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
 	- **(c)** one or more **_“Accountabilities“_**, which are ongoing activities of the Organization that the Role will enact.
-```
+-->
 
 <!--### 1.2 Responsibilities of Role-Filling-->
 ### 1.2 ロールを担う事で発生する責任
@@ -40,23 +40,22 @@
 <!--#### 1.2.1 Processing Tensions-->
 #### 1.2.1 テンションの解消
 
-現状とポテンシャルの間の差異を**_テンション_**と呼びます。あなたはロールの目的やロールの説明責任を管理する責任があり、あなたの持つビジョン（理想的なポテンシャルの発揮）と比較する責任もあります。また、権限やその他の仕組みを通じてテンションを解消する責任もあります。
+現状とポテンシャルの間の差異を**_テンション_**と呼びます。あなたはロールの目的やロールの活動内容を管理する責任があり、あなたの持つビジョン（理想的なポテンシャルの発揮）と比較する責任もあります。また、権限やその他の仕組みを通じてテンションを解消する責任もあります。
 
 <!--
 	You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension“_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
 -->
 
 <!--#### 1.2.2 Processing Purpose & Accountabilities-->
-#### 1.2.2 目的と説明責任の設定
+#### 1.2.2 目的と活動内容の設定
 
-あなたは定期的に、どのようにロールの目的/説明責任を機能させるかを考える責任があります。そのために、以下を定義します。
+あなたは定期的に、どのようにロールの目的/活動内容を設定するかを考える責任があります。そのために、以下を定義します。
 
 - **(a)****_次のアクション_**：あなたがすぐに実行でき、また他に優先順位の高い行動がない場合にすぐやる意味のある行動です。
 - **(b)****_プロジェクト _**：仕事を進める上で意味のある複数のアクションを必要とする結果です。
 
 <!--
 	You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
-
 	- **(a)****_“Next-Actions“_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
 	- **(b)****_“Projects“_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
 -->
@@ -87,7 +86,7 @@
 
 ### 1.3 Authority to Act
 
-パートナーは役割に割り当てられているように、あなたは合理的に目的や説明責任、あなたの役割を制定するために有用であると考えている任意のネクストアクションを実行する権限を持っています。
+パートナーは役割に割り当てられているように、あなたは合理的に目的や説明責任、あなたの役割を制定するために有用であると考えている任意のネクストアクションを設定する権限を持っています。
 
 ただし、コントロールを発揮することができないか、あなたはそれらの権限を持っていない限り、別の役割または別の主権実体が所有しているドメイン内の重要な影響を引き起こします。この段落で付与された権限は、さらに、第2.1.3項によって制限されています。
 
@@ -97,7 +96,7 @@
 
 ### 1.4 Authority over Domains
 
-同僚がロールに割り当てられている場合、あなたはロールの領域(Domain)をコントロール、調整する権限があります。あなたはケースバイケースな基準であなたの領域に影響する許可申請に許可/
+同僚がロールに割り当てられている場合、あなたはロールの領域をコントロール、調整する権限があります。あなたはケースバイケースな基準であなたの領域に影響する許可申請に許可/
 却下する事ができます。	
 
 また、領域に**_ポリシー_**を定義することもできます。ポリシーとは他者がコントロールする権限を付与したり、逆に他社の方法を制限したりします。ポリシーが有効である前に、まず影響を受ける可能性があるすべてのパートナーに便利なフォーラムでそれを公開する必要があります。
@@ -106,42 +105,48 @@
 
 <!--
 	As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
-
 	You may also define **_“Policies“_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
-
 	The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
 -->
 
 <!--## Article 2: Circle Structure-->
-## 第２章: サークル型
+<!--### 2.1 Circle Basics-->
+## 第２条: サークル構造
+### 2.1 サークルの基本
 
-### 2.1 Circle Basics
+**_"サークル"_**はロールであり、目的達成のためにより大きなロールを再定義したり、領域を制御したり、その活動内容を制定したりします。サークルが定義したロールは、**_"定義されたロール"_**であり、そのいずれかを満たす人はみなそのサークルの**_"サークルメンバー"_**です。
 
-**_"サークル"_**、そのドメインを制御し、その説明責任を制定、さらに独自のがその目的を達成するための役割が含まれて定義することによって自分自身を破壊することが役割です。ロールは、サークルの定義は、その**_"定義の役割"_**であり、その定義された役割のいずれかを満たす誰もがそのサークルの**_"サークルメンバー"_**です。
-
+<!--
 	A **_“Circle“_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles“_**, and anyone filling one of its Defined Roles is a **_“Circle Member“_** of that Circle.
+-->
 
-#### 2.1.1 Defining Roles & Policies
+<!--#### 2.1.1 Defining Roles & Policies-->
+#### 2.1.1 ロールとポリシーの定義
 
-各サークルは、サークル内での役割やサークルのドメインを管理するポリシーを定義するか、修正するには、この憲法の第3条に記載**_'ガバナンス・プロセスを"_**使用されます。誰も定義していないか、明示的にこの憲法の別のルールで許可されていない限り、そのガバナンス・プロセスの外側の円の役割やポリシーを変更することができます。
+各サークルは、この憲法の第3条に記されている**_ガバナンス・プロセス_**を使い、サークル内のロールやポリシー(サークルの領域を統治している)の定義/修正を行います。
+このガバナンス・プロセス外の人は誰も、サークルのロールやポリシーを定義/修正はできません。
 
-さらに、各サークルは、サークルの役割を制限するポリシーを定義する目的のために、サークルのドメインかのように、独自の機能や活動を制御することができます。
+さらに、各サークルはサークルのロールを制限するポリシーを定義するために(サークルの領域であれば)自身の機能や活動をコントロールします。
 
+<!--
 	Each Circle will use the **_“Governance Process“_** described in Article 3 of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
-
 	Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
+-->
 
-#### 2.1.2 Roles May Impact Circle Domains
+<!--#### 2.1.2 Roles May Impact Circle Domains-->
+#### 2.1.2 サークルの領域に影響を与えるロール
 
-サークル内の役割を充填するときは、使用して、サークル自体、またはサークルが影響を与えることが許可されていることによって制御される任意のドメインに影響を与える可能性があります。ただし、サークル自体やサークルのポリシーで定義されたに作用する任意の制約に従わなければならない、とあなたは完全に制御したり、セクション1.4の条件の下でドメインを規制しないことがあります。
+サークル内のロールを担う際、あなたはサークル自体がコントロールしている領域を利用したり影響を与えたりするかもしれません。しかし、あなたはサークルで機能する制約やサークルのポリシーで決められている制約を守らなければなりません。また、あなたは領域(1.4で説明しました)を完全にコントロールしたり、制限したりできません。
 
-さらに、あなたが転送したり、ドメイン内のドメイン自体または任意の重要な資産の処分、また、あなたが大幅にドメインへのサークルの権利を制限することがないかもしれません。必要な権限を保持している役割やプロセスを実行する権限を付与する場合は、これらの制限は適用されません。
+さらに、あなたは領域内の重要資産やドメイン自体を移動したり、処分したりできません。また、サークルの領域に対する権利を大幅に制限されるかもしれません。しかし、あなたがそうするための権利を付与されているロールやプロセスを与えられていれば、これらの制約は課せられません。
 
+<!--
 	When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
-
 	Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+-->
 
-#### 2.1.3 Delegation of Control
+<!--#### 2.1.3 Delegation of Control-->
+#### 2.1.3 管理の移譲
 
 サークルは、その役割の1時にドメインを定義すると、サークルの権限は、コントロールに影響を与え、およびドメインではなく、その役割に委任し、サークルから削除されたことを規制します。
 
@@ -151,23 +156,24 @@
 
 いずれの場合も、すべてのドメインの代表団は、常にどのような機関に自身が最初の場所で持っていたサークルを制限されています。
 
+<!--
 	When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.
-
 	However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.
-
 	By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
-
 	In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+-->
 
-### 2.2 Circle Lead Link
+<!--### 2.2 Circle Lead Link-->
+### 2.2 サークル・リード・リンク
 
-各サークルは、付録Aと、この節で定義され、さらに責任と権限に与えられた定義に**_「リード・リンク・役割」_**を持っています。
+各サークルは**_リードリンク・ロール_**を持っています。詳しくはAppendix Aにて定義しています。
 
-リードリンクの役割を埋める人、その能力で動作しているときに、と呼ばれているサークルの**_リンクをリード_**。
+リードリンク・ロールを務める人は、**_リードリンク_**を呼ばれます。
 
+<!--
 	Each Circle has a **_“Lead Link Role“_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.
-
 	The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link“_**.
+-->
 
 #### 2.2.1 Holds Undifferentiated Functions
 
@@ -198,33 +204,34 @@
 
 	However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
 
-### 2.3 Core Circle Members
+<!--### 2.3 Core Circle Members-->
+### 2.3 コアメンバー
 
-いくつかのサークルのメンバーは、サークルのガバナンス・プロセスに参加することを許可され、円の****_「コアCircle会員"_このようにされています。
+いくつかのサークルのメンバーは、サークルのガバナンス・プロセスに参加することを許可され、彼らのことを**_"コアメンバー"_**と言います。
 
-コアサークルメンバーは以下の規則を使用して決定されます。
+コアサークルメンバーは以下のルールに基づいて決定されます。
 
+<!--
 	Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members“_** of the Circle.
-
 	The Core Circle Members are determined using the following rules:
+-->
 
 #### 2.3.1 Base Membership
 
-特別な予定または除外が本節の条項の下で行われていない限り、サークルのコアサークルメンバーは以下のとおりです。
+特別な任命または除外が本節の条項の下で行われていない限り、サークルのコアメンバーは以下のとおりです。
 
-- **（a）の**サークルで定義された役割を埋める各パートナー。
-- **（b）は**サークルのリードリンク、セクション2.2で定義されているように、
-- **（C）**サークルに選出された各担当者リンク、セクション2.6.4で定義されているように、
-- **（d）の**とセクション2.7で定義されるように円形に各クロスリンク、。
+- **（a）**サークルで定義されたロールを担う各パートナー。
+- **（b）**リードリンク(2.2 サークル・リード・リンク参照)
+- **（C）**代理リンク、(2.6.4 参照)
+- **（d）**クロスリンク(2.7 参照)
 
-```
+<!--
 	Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
-
 	- **(a)** each Partner filling a Defined Role in the Circle;
 	- **(b)** the Lead Link of the Circle, as defined in Section 2.2;
 	- **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
 	- **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
-```
+-->
 
 #### 2.3.2 Exclusion for Multi-Filled Roles
 
@@ -252,17 +259,22 @@
 
 	The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
 
-### 2.4 Role Assignment
+<!--### 2.4 Role Assignment-->
+### 2.4 ロールのアサイン
 
-サークルのリードリンクは、その権限が限らまたは委任されていない限り、サークルで定義された役割を埋めるために人々を割り当てることができます。
+リードリンクは、その権限が制限または委任されていない限り、サークルのロールを担う人をアサインします。
 
+<!--
 	The Lead Link of a Circle may assign people to fill Defined Roles in the Circle, unless that authority has been limited or delegated.
+-->
 
 #### 2.4.1 Unfilled Roles
 
-サークルで定義された役割が充填されていないときはいつでも、サークルのリードリンクは役割を充填であると考えられています。
+空きロールがある場合は常に、リードリンクは誰かを担当させる必要があります。
 
+<!--
 	Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
+-->
 
 #### 2.4.2 Assigning Roles to Multiple People
 
@@ -284,11 +296,14 @@
 
 	When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
 
-### 2.5 Elected Roles
+<!--### 2.5 Elected Roles-->
+### 2.5 選出されたロール
 
-各サークルが含まれて**_「ファシリテーターの役割」_**、**_「長官の役割」_**、およびこれらは付録Aに与えられた定義と**_「担当者リンクの役割」_**サークルの**_"選出された役割」_**、及び各を埋める人は、**_"長官"_**、または**_「担当者リンク"_**サークルの**_「ファシリテーター」_**になります選出役割の能力で動作する場合。
+各ロールには**_ファシリテーター_**、**_秘書_**、**_代理リンク_**がいます(Appendix A参照)。彼らはサークルの**_選出されたロール_**であり、彼らは選出されたロールとして行動する際は彼らががファシリテーター、秘書、代理リンクとなります。
 
+<!--
 	Each Circle includes a **_“Facilitator Role“_**, a **_“Secretary Role“_**, and a **_“Rep Link Role“_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles“_**, and the person filling each becomes the Circle’s **_“Facilitator“_**, **_“Secretary“_**, or **_“Rep Link“_** when acting in the capacity of the Elected Role.
+-->
 
 #### 2.5.1 Elections & Eligibility
 
@@ -344,29 +359,26 @@
 	- **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
 ```
 
-### 2.6 Sub-Circles
+<!--### 2.6 Sub-Circles-->
+### 2.6 子サークル
 
-サークルは、そのガバナンスプロセスを経て、フルサークルにその定義された役割を拡大することができます。それがない場合には、それがその新しいサブサークルの**_「スーパーサークル"_**になりながら、新しいサークルは、その**_「サブサークル" _**となります。
+サークルは、そのガバナンスプロセスを経て、フルサークルにそのロールを拡大することができます。その際、それがその新しいサブサークルの**_親サークル_**になり、新しいサークルは**_子サークル_**となります。
 
+<!--
 	A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle“_**, while it becomes the **_“Super-Circle“_** of that new Sub-Circle.
+-->
 
-#### 2.6.1 Modifying Sub-Circles
+<!--#### 2.6.1 Modifying Sub-Circles-->
+#### 2.6.1 子サークルの変更
 
-サークルは、サブサークルの目的、ドメイン、または説明責任を修正することができます。
+親サークルは、子サークルの目的、領域、または活動内容を修正することができます。また、子サークルに対してロールやポリシーを移動したり、また子サークル内から親サークルに任意のものを移動させることができます。これらの修正のいずれかはサークルのガバナンス・プロセスを通じてのみできます。これらの許可された変更以外は、親サークルは任意のロールまたは子サークル内のポリシーを変更することはできません。
 
-サークルはまた、サブサークルに独自の定義された役割やポリシーを移動し、またはそれ自体にサブサークル内から任意のものを移動させることができます。
-
-これらの修飾のいずれかをのみサークルのガバナンス・プロセスを介して行うことができます。
-
-これらの許可の変更以外にも、サークルは任意の定義された役割またはサブサークル内に保持されたポリシーを変更することはできません。
-
+<!--
 	A Circle may modify the Purpose, Domains, or Accountabilities of a Sub-Circle. 
-
 	A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
-
 	Any of these modifications may only be done via the Governance Process of the Circle.
-
 	Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
+-->
 
 #### 2.6.2 Removing Sub-Circles
 
@@ -386,15 +398,17 @@
 
 	Each Circle normally elects a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
 
-### 2.7 Cross Linking
+<!--### 2.7 Cross Linking-->
+### 2.7 横断的リンク
 
-サークルは、作成することができます**_「クロスリンクポリシー"_**ガバナンス・プロセスとサークルの操作またはそのサブ円の1に参加する任意のエンティティまたはグループを招待します。参加するよう招待されたエンティティまたはグループは、**_"リンク先エンティティ"_**であり、それは組織の外部にあってもよく、またはそれは組織内の別の役割やサークルでもよいです。このリンクを受け取りますサークル**_「ターゲットサークル"_**です。
+ガバナンスプロセスとその運営に特定の人やグループや子サークルを参加させるために、サークルは**_横断的リンク・ポリシー_**を作成できます。正体された人は**_リンク参加者_**と呼ばれ、他のサークルのロールや組織の外部の人の場合もあります。リンクされた側のことを**_ターゲット・サークル_**と呼びます。
 
-クロスリンクポリシーが採用されると、リンクされたエンティティは、別の用語がポリシーで定義されていない限り、このセクションの条項に基づいてターゲットサークルに参加する代表を割り当てることができます。
+横断的リンク・ポリシーが採用された場合、リンク参加者は別の用語がポリシーで定義されていない限り、このセクションの条項に基づいてターゲットサークルに参加する代表を割り当てることができます。
 
+<!--
 	A Circle may create a **_“Cross Link Policy“_** to invite any entity or group to participate in the Governance Process and operations of the Circle or one of its Sub-Circles. The entity or group that is invited to participate is the **_“Linked Entity“_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle“_**.
-
 	Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
+-->
 
 #### 2.7.1 Cross Link Role
 
@@ -461,45 +475,44 @@
 
 	In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
 
-## Article 3: Governance Process
+<!--## Article 3: Governance Process-->
+<!--### 3.1 Scope of Governance-->
+## 第３条 ガバナンスプロセス
+### 3.1 ガバナンスの範囲
 
-### 3.1 Scope of Governance
+サークルのガバナンス・プロセスは、以下の力を持ちます
 
-サークルのガバナンス・プロセスは、パワーにあります：
+- **（a）**サークル・子サークルのロールを定義、修正、削除
+- **（b）**サークルのポリシーを定義、修正、削除
+- **（c）**サークルの選出されたロールの選挙
 
-- **（a）に**を定義、修正、またはサークルの役割とサブサークルを削除します。 そして
-- **（b）に**を定義、修正、またはサークルのポリシーを削除します。 そして
-- サークルの選出ロールの**（c）の**ホールド選挙。
+いつ時点であっても、サークルの**_ガバナンス_**は過去か現在のサークルのガバナンスプロセスの結果です。
 
-任意の時点で、サークルのガバナンス・プロセスのその時点での結果は_**その演技**_「ガバナンス」を定義します。
+このセクションに記載されている内容のみがサークル内で有効なガバナンスです。誰も円のガバナンス レコード内の他の出力をキャプチャできません。
 
-のみ、このセクションに記載されているそれらの出力は、円のための有効なガバナンスがあります。誰もサークルのガバナンスレコード内の他の出力をキャプチャしない場合があります。
-
-```
+<!--
 	The Governance Process of a Circle has the power to:
-
 	- **(a)** define, amend, or remove the Circle’s Roles and Sub-Circles; and
 	- **(b)** define, amend, or remove the Circle’s Policies; and
 	- **(c)** hold elections for the Circle’s Elected Roles.
-
 	At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance“_**.
-
 	Only those outputs listed in this section are valid Governance for a circle; no one may capture other outputs within the Circle’s Governance records.
-```
+-->
 
-### 3.2 Changing Governance
+<!--### 3.2 Changing Governance-->
+### 3.2 ガバナンスの変更
 
-サークルの任意のコアサークルメンバーは_**したがって**_「提案」として**_ "提案"_**を作り、そのガバナンスを変える提案することができます。
+コアメンバーはガバナンスの変更を提案できます。これを**_提案者_**による**_提案_**と呼びます。
 
-提案が採用される前に、すべてのコア・サークルのメンバーは、提案を採用についての緊張を高める機会を持っている必要があります。そのように隆起した各張力が**_「異議あり」と考えられている_**それは、このセクションで定義された基準、それは**_"オブジェ"_**となる隆起した人を満たしている場合。
+提案は採用されるまでは、すべてのコアメンバーは、採用についてのテンションを高める機会を持っている必要があります。これらのテンションは**_意義_**と考えられ、本セクションで定義された基準を満たしている場合、意義を提案したものは**_意義のある人(Objector)_**となります。
 
-提案は採択され、異議がそのように提起されていない場合のみ、サークルのガバナンスを修正されると考えられます。異議が提起されている場合は、提案者とそれぞれのオブジェは、サークルは、すべてのコアサークルのメンバーは、提案が採用される前に、さらに異議を提起する別の機会を持っている必要があり、その後の提案を、採用することができる前に、異議に対処する方法を見つける必要があります。
+意義がない場合のみ提案は採用され、ガバナンスは修正されます。意義があった場合、提案者と意義のある人は提案が採用される前に、解決する方法を決めなければいけません。提案は採択され、異議がそのように提起されていない場合のみ、サークルのガバナンスを修正されると考えられます。異議が提起されている場合は、提案者とそれぞれのオブジェは、サークルは、すべてのコアサークルのメンバーは、提案が採用される前に、さらに異議を提起する別の機会を持っている必要があります。
 
+<!--
 	Any Core Circle Member of a Circle may propose changing its Governance, thus making a **_“Proposal“_** as a **_“Proposer“_**.
-
 	Before a Proposal is adopted, all Core Circle Members must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection“_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector“_**.
-
 	Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all Core Circle Members must have another opportunity to raise further Objections before the Proposal is adopted.
+-->
 
 #### 3.2.1 Making Proposals
 
@@ -596,19 +609,20 @@
 	- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve or prevent the Tension in each specific situation the Proposer used to illustrate the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve or prevent the Tension in at least one specific situation already presented. Alternatively, the Proposer may add an additional example that the amended Proposal would not resolve, but which still meets the criteria for processing a Proposal required by Section 3.2.2. If the Facilitator concludes that the Proposer has failed to meet one of these thresholds, then the Facilitator must deem the Proposal invalid for processing and abandoned.
 ```
 
-### 3.3 Governance Meetings
+<!--### 3.3 Governance Meetings-->
+### 3.3 ガバナンス会議
 
-サークルの長官は、サークルのガバナンス・プロセスを制定するガバナンス会議をスケジュールする責任があります。
+秘書はガバナンス会議をスケジュールし、ガバナンスプロセスを回す責任があります。
 
-任意の正規、ガバナンス会議を繰り返し長官のスケジュールに加えて、長官は速やかに任意のコアサークル会員の要求に応じて追加の特別ガバナンス会議をスケジュールする責任があります。
+通常のガバナンス会議に加えて、コアメンバーの要求に応じてガバナンス会議を設定する責任が秘書にはあります。
 
-ファシリテーターは、次のルールとサークルの任意の関連政策と整合内のすべてのガバナンス会議を主宰する責任があります。
+ファシリテーターは、以下のルールや関係するポリシーに基づいて、議長をする責任があります。
 
+<!--
 	The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
-
 	In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
-
 	The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
+-->
 
 #### 3.3.1 Attendance
 
@@ -757,11 +771,14 @@
 
 	Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
 
-### 3.5 Process Breakdown
+<!--### 3.5 Process Breakdown-->
+### 3.5 プロセスの崩壊
 
-サークルは、この憲法の規定と矛盾する行動のパターンを示しているとき**_「プロセス内訳は、「_**起こります。
+サークルが、この憲法の規定と矛盾する行動のパターンを示しているとき**_プロセスの崩壊_**が起こります。
 
+<!--
 	A **_“Process Breakdown“_** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
+-->
 
 #### 3.5.1 Breakdown from Failed Governance
 
@@ -805,7 +822,8 @@
 
 	However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
 
-## Article 4: Operational Process
+<!--## Article 4: Operational Process-->
+## Article 4: 運営プロセス
 
 ### 4.1 Duties of Circle Members
 
