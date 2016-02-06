@@ -5,7 +5,7 @@
 <!--##Preamble-->
 ##プリアンブル
 
-この **_"憲法"_** はルールやガバナンスや組織の運営のためのプロセスを定義します。**_“批准"_** の正式な機関構造としてこれらのルールを採用している、**_“組織"_** 全体のエンティティまたは批准は、支配、および実行権限を持つ 1 つの一部することが憲法採用時に指定します。批准し、ガバナンスや組織の運営に参加することに同意する他の誰 (その **_“パートナー"_**) この憲法によって与えられた権限に依存し、もその義務や制約に拘束されることに同意することがあります。
+この **_"憲法"_** ではルール、ガバナンス、組織運営のためのプロセスを定義します。**_“批准"_** の正式な機関構造としてこれらのルールを採用している、**_“組織"_** 全体のエンティティまたは批准は、支配、および実行権限を持つ 1 つの一部することが憲法採用時に指定します。批准し、ガバナンスや組織の運営に参加することに同意する他の誰 (その **_“パートナー"_**) この憲法によって与えられた権限に依存し、もその義務や制約に拘束されることに同意することがあります。
 
 	This **_“Constitution“_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers“_** are adopting these rules as the formal authority structure for the **_“Organization“_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners“_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.  
 
@@ -29,51 +29,61 @@
 ```
 
 <!--### 1.2 Responsibilities of Role-Filling-->
-### 1.2 役割を担う事で発生する責任
+### 1.2 ロールを担う事で発生する責任
 
-組織のパートナーとして、それぞれの役割に割り当てられているし、穴埋めに同意するの次の責任があります。
+あなた達は組織のパートナーとして、各々がアサインに同意をしたロールに割り当てられており、以下の責任を負います。
 
+<!--
 	As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
+-->
 
 <!--#### 1.2.1 Processing Tensions-->
-#### 1.2.1 Processing Tensions
+#### 1.2.1 テンションの解消
 
-役割の目的や責任の表現方法を監視する責任があり、あなたが感じるあなたの現在の現実と可能性間のギャップを識別するために、理想的な潜在的な発現のビジョンと比較すること (各ギャップは、**_“緊張"_**)。当局とこの憲法の下であなたにできる他のメカニズムを使用してそれらの張力を解決する責任があります。
+現状とポテンシャルの間の差異を**_テンション_**と呼びます。あなたはロールの目的やロールの説明責任を管理する責任があり、あなたの持つビジョン（理想的なポテンシャルの発揮）と比較する責任もあります。また、権限やその他の仕組みを通じてテンションを解消する責任もあります。
 
+<!--
 	You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension“_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+-->
 
 <!--#### 1.2.2 Processing Purpose & Accountabilities-->
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 目的と説明責任の設定
 
-定期的に定義する役割の目的と各役割の責任を制定する方法を検討する責任があります。
+あなたは定期的に、どのようにロールの目的/説明責任を機能させるかを考える責任があります。そのために、以下を定義します。
 
-- **(a)****_“次へのアクション"_**、アクション、すぐに実行すること、それはの優先順位の競合がない場合すぐに、少なくとも実行すると便利であります。
-- **(b)****_“プロジェクト"を _**、特定の成果を達成するために複数の連続操作を必要として、優先順位の競合がない場合、少なくともに向かって、仕事に役に立つことであります。
+- **(a)****_次のアクション_**：あなたがすぐに実行でき、また他に優先順位の高い行動がない場合にすぐやる意味のある行動です。
+- **(b)****_プロジェクト _**：仕事を進める上で意味のある複数のアクションを必要とする結果です。
 
-```
+<!--
 	You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
 
 	- **(a)****_“Next-Actions“_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
 	- **(b)****_“Projects“_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
-```
+-->
 
-#### 1.2.3 Processing Projects
+#### 1.2.3 プロジェクトの対応
 
-あなたは定期的に前方にプロジェクトを移動するのに有用な任意のネクストアクションを定義することによって、あなたが積極的に含め、あなたの役割のために向けて取り組んでいる各プロジェクトを完了する方法を検討する責任があります。
+あなたは定期的に、活動中のプロジェクトをどのように完了させるか考える責任があります。そのためにプロジェクトを進める事のできる次のアクションを定義します。
 
+<!--
 	You are responsible for regularly considering how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
+-->
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.4 プロジェクト、次のアクション、テンションの管理
 
-あなたは、データベースまたは類似の有形フォームにあなたの役割のために、すべてのプロジェクトと次-アクションを捕捉して追跡するための責任があり、定期的に見直し、役割アクティブおよび潜在的な仕事の信頼できるリストとしてそれを維持するために、そのデータベースを更新します。また、あなたが希望するプロジェクトまたは次-アクションにそれらを処理し、またはそうでなければ、それらを解決するまで、少なくとも、あなたの役割のためにあなたが識別する任意の緊張を追跡する責任があります。
+あなたは、すべてのプロジェクト、次のアクションを把握し、データベース(やその他のフォーマット)を更新する責任があります。また、望ましいプロジェクト、次のアクションとなるまでロールのテンションを管理する責任もあります。
 
+<!--
 	You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
+-->
 
-#### 1.2.5 Directing Attention & Resources
+#### 1.2.5 注意とリソースの管理
 
-あなたの役割で行動するために利用可能な時間があるたび、あなたはそのサブセットの中から組織に最も価値を追加し、あなたが信じている方、あなたが効率的かつ効果的にその時点で行うことができます潜在的な次世代アクションを考慮して、実行する責任があります。
+あなたのロールにおいて時間のある限り、その時する事が効果的な次のアクションが潜在化していないか考える責任があり、組織とって価値があると信じるものを追加する責任があります。
 
+<!--
 	Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization from among that subset.
+-->
 
 ### 1.3 Authority to Act
 
@@ -87,17 +97,20 @@
 
 ### 1.4 Authority over Domains
 
-パートナーは役割に割り当てられているように、あなたがコントロールすると、あなたの役割の各ドメインを規制する権限を持っています。他の人が要求を考慮し、許可または源泉徴収許可を得て、あなたのドメインの1に影響を与えるために許可を要求するときは、ケースバイケースでこれを行うことができます。
+同僚がロールに割り当てられている場合、あなたはロールの領域(Domain)をコントロール、調整する権限があります。あなたはケースバイケースな基準であなたの領域に影響する許可申請に許可/
+却下する事ができます。	
 
-また、他の人が制御するか、またはそうでなければ、許可するとき他の人がそうすることがどのように重要なドメイン内の衝撃、または制限を引き起こすことができるように権限の付与されているか、あなたのドメイン、のために**_“ポリシー"_**を定義することができます。ポリシーが有効である前に、まず影響を受ける可能性があるすべてのパートナーに便利なフォーラムでそれを公開する必要があります。
+また、領域に**_ポリシー_**を定義することもできます。ポリシーとは他者がコントロールする権限を付与したり、逆に他社の方法を制限したりします。ポリシーが有効である前に、まず影響を受ける可能性があるすべてのパートナーに便利なフォーラムでそれを公開する必要があります。
 
 このセクションであなたに付与された権限がさらに2.1.3項の下で定義された制約によって制限される場合があります。
 
+<!--
 	As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
 
 	You may also define **_“Policies“_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
 
 	The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
+-->
 
 <!--## Article 2: Circle Structure-->
 ## 第２章: サークル型
